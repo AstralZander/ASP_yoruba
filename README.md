@@ -10,7 +10,7 @@ We are solving a speech recognition problem for the Yoruba language.
 1. google/fleurs (https://arxiv.org/abs/2205.12446)
 2. bibleTTS (https://masakhane-io.github.io/bibleTTS/)
 3. mozilla-foundation/common_voice_12_0
-
+4. Lagos-NWU (https://repo.sadilar.org/handle/20.500.12185/431)
 
 
 WER (Word error rate) is used as the main evaluation metric.
