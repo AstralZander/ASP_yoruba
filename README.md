@@ -5,6 +5,7 @@ We are solving a speech recognition problem for the Yoruba language.
 **As promising models for training , the following were considered:**
 1. facebook/wav2vec2-xls-r-300m
 2. openai/whisper-small
+3. Ayoola/cdial-yoruba-test (https://huggingface.co/Ayoola/cdial-yoruba-test)
 
 **We use datasets for training**:
 1. google/fleurs (https://arxiv.org/abs/2205.12446)
